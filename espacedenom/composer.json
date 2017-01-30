@@ -1,0 +1,19 @@
+{
+	"name": "nicolas/simplon/espacedenom",
+	"description": "les namespace",
+	"authors": [
+		{
+			"name": "Nicko",
+			"email": "nicolasmathieu31@hotmail.com"
+		}
+	],
+	"require": {},
+
+
+
+	"autoload": {
+		"psr-4": {
+			"NickoM31\\App\\": "src/"
+		}
+	}
+}
